@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋 and welcome to my GitHub profile!</h1>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=bendalejatin&label=Profile%20views&color=0e75b6&style=flat)
+
 # 💫 About Me:
 🔭 I’m currently working on Building full-stack MERN applications, focusing on responsive design and performance optimization.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Innovative web development projects and learnings in cybersecurity.<br>🤝 I’m looking for help with Advanced backend architecture and system design.<br>🌱 I’m currently learning Cybersecurity  and advanced Web development.<br>💬 Ask me about React.js, full-stack development, and building scalable web apps.
 
